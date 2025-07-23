@@ -12,3 +12,5 @@ See the [CONTRIBUTING guide](./CONTRIBUTING.md#Changelog) for instructions on ho
 ### Documentation
 ### Maintenance
 ### Refactoring
+
+Dummy change
